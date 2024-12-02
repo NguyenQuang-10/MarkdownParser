@@ -1,0 +1,20 @@
+diff --git a/examples/expected_output/ordered_list.html b/examples/output/ordered_list.html
+index f851342..0aabbec 100644
+--- a/examples/expected_output/ordered_list.html
++++ b/examples/output/ordered_list.html
+@@ -12,6 +12,15 @@
+             <ol>
+                 <li>Sub Item 1</li>
+                 <li>Sub Item 2</li>
++                    <ol>
++                        <li>Sub Sub Item 1</li>
++                        <li>Sub Sub Item 2</li>
++                        <li>Sub Sub Item 3</li>
++                        <li>Sub Sub Item 4</li>
++                            <ol>
++                                <li>Item</li>
++                            </ol>
++                    </ol>
+                 <li>Sub Item 3</li>
+             </ol>
+         <li><strong>Bolded Item 2</strong></li>

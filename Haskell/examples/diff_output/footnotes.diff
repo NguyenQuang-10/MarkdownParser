@@ -1,0 +1,17 @@
+diff --git a/examples/expected_output/footnotes.html b/examples/output/footnotes.html
+index 2a5009f..330c5d5 100644
+--- a/examples/expected_output/footnotes.html
++++ b/examples/output/footnotes.html
+@@ -7,9 +7,9 @@
+ </head>
+ 
+ <body>
+-    <p id="#ref1">My reference.</p>
+-    <p id="#ref2">Another reference.</p>
+-    <p id="#ref3">The 2 spaces after the colon should be ignored</p>
++    <p id="fn1">My reference.</p>
++    <p id="fn2">Another reference.</p>
++    <p id="fn3">The 2 spaces after the colon should be ignored</p>
+ </body>
+ 
+ </html>

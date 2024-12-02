@@ -1,0 +1,13 @@
+diff --git a/examples/expected_output/images.html b/examples/output/images.html
+index 1e9c518..55b5731 100644
+--- a/examples/expected_output/images.html
++++ b/examples/output/images.html
+@@ -7,7 +7,7 @@
+ </head>
+ 
+ <body>
+-    <p><img src="image.png" alt="Alt Text" title="Caption Text"></p>
++    <img src="image.png" alt="Alt Text" title="Caption Text">
+ </body>
+ 
+ </html>

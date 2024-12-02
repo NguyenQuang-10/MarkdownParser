@@ -1,0 +1,15 @@
+diff --git a/examples/expected_output/blockquotes.html b/examples/output/blockquotes.html
+index 02666f2..522b371 100644
+--- a/examples/expected_output/blockquotes.html
++++ b/examples/output/blockquotes.html
+@@ -8,8 +8,8 @@
+ 
+ <body>
+     <blockquote>
+-        <p>This is a block quote.</p>
+-        <p>It can <strong>span</strong> multiple lines.</p>
++            <p>This is a block quote.</p>
++            <p>It can <strong>span</strong> multiple lines.</p>
+     </blockquote>
+ </body>
+ 
